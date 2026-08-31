@@ -327,28 +327,20 @@ After activation, you'll see the main dashboard with these sections:
 ### Navigation
 
 
-┌─────────────────────────────────────┐
-│  🦅 ShadowHawk Pro                  │
-│  Professional Security Testing       │
-├─────────────────────────────────────┤
-│  ┌─────────────────────────────────┐ │
-│  │ 📊 System Status               │ │
-│  │ Target: HomeNetwork            │ │
-│  │ CH: 6                          │ │
-│  │ 💀 Deauth: OFF  📶 Ext: OFF    │ │
-│  └─────────────────────────────────┘ │
-│  ┌─────────────────────────────────┐ │
-│  │ ⚔️ Attack Control Center        │ │
-│  │ [DEAUTH] [ALL] [BEACON]        │ │
-│  │ [EVIL] [COMBO]                 │ │
-│  └─────────────────────────────────┘ │
-│  ┌─────────────────────────────────┐ │
-│  │ 📶 Discovered Networks          │ │
-│  │ [Quick Scan] [Hidden Scan]     │ │
-│  │ 1. HomeNetwork   [Select]      │ │
-│  │ 2. GuestNetwork  [Select]      │ │
-│  └─────────────────────────────────┘ │
-└─────────────────────────────────────┘
+🦅 ShadowHawk Pro - Professional Security Testing       
+
+│  │ 📊 System Status             
+│  │ Target: HomeNetwork           
+│  │ CH: 6                          
+│  │ 💀 Deauth: OFF  📶 Ext: OFF  
+│  │ ⚔️ Attack Control Center     
+│  │ [DEAUTH] [ALL] [BEACON]       
+│  │ [EVIL] [COMBO]                
+
+│  │ 📶 Discovered Networks          
+│  │ [Quick Scan] [Hidden Scan]     
+│  │ 1. HomeNetwork   [Select]      
+│  │ 2. GuestNetwork  [Select]      
 
 
 
@@ -421,22 +413,15 @@ After activation, you'll see the main dashboard with these sections:
 ## ⚠️ Disclaimer
 
 
-
-███████████████████████████████████████████████████████
-█                                                     █
-█  ⚠️  EDUCATIONAL & SECURITY TESTING ONLY            █
-█                                                     █
-█  This firmware is designed for:                     █
-█  ✅ Educational purposes                            █
-█  ✅ Security research                              █
-█  ✅ Testing your own networks                      █
-█  ✅ Authorized penetration testing                 █
-█                                                     █
-█  ❌ NOT for unauthorized access                     █
-█  ❌ NOT for illegal activities                     █
-█  ❌ NOT for disrupting public networks              █
-█                                                     █
-█  Always obtain permission before testing.           █
-█  Use at your own risk.                             █
-█                                                     █
-███████████████████████████████████████████████████████
+ ⚠️  EDUCATIONAL & SECURITY TESTING ONLY            
+                                                     
+█  This firmware is designed for:                     
+█  ✅ Educational purposes                            
+█  ✅ Security research                              
+█  ✅ Testing your own networks                      
+█  ✅ Authorized penetration testing                                                                 
+█  ❌ NOT for unauthorized access                    
+█  ❌ NOT for illegal activities                     
+█  ❌ NOT for disrupting public networks                                                               
+█  Always obtain permission before testing.           
+█  Use at your own risk.  
